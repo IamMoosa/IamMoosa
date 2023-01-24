@@ -22,6 +22,7 @@
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moosa-raza-237ba8235/)
 
+[![An image of @iammoosa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iammoosa)](https://holopin.io/@iammoosa)
 
 #  <p align="center">📊 Github Stats</p>
 
