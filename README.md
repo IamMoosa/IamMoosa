@@ -5,12 +5,7 @@
 
 # <p align="center">👋 Welcome! </p>
 
-<p align="center"> Hi! My name is Moosa Raza</p>
-
-
-# <p align="center">🚀 About Me </p>
-
-<p align="center">A Software Engineering student from Pakistan.</p>
+<p align="center">Hi everyone, my name is Moosa Raza and I am a software engineering student at UIT University. I am passionate about programming and enjoy learning new things. Lately, I have been interested in data science and am working towards a career in this field. I hope to make a positive impact in the future through my work in data science.</p>
 
 
 
@@ -20,7 +15,7 @@
 
 # 🔗 Links
 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moosa-raza-237ba8235/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/moosa-raza-237ba8235/)  [![linkedin](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/IamMoosa)
 
 [![An image of @iammoosa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iammoosa)](https://holopin.io/@iammoosa)
 
