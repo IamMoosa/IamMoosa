@@ -1,6 +1,5 @@
 # <p align="center">👋 Welcome! </p>
 
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/rbJrclh5cnPH8qyvLT/giphy.gif">
 <p>
 👋 Howdy, fellow coders! I'm Moosa Raza, a software engineering student with an insatiable thirst for innovation and problem-solving. 💻✨
@@ -16,6 +15,8 @@
 
 <br />
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IamMoosa&label=Profile%20views&color=0e75b6&style=flat" alt="IamMoosa" /> </p>
+
 <br />
 
 # 🛠 Skills
