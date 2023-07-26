@@ -29,12 +29,12 @@
 
 [![An image of @iammoosa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iammoosa)](https://holopin.io/@iammoosa)
 
-#  <p align="center">📊 Github Stats</p>
+# 📊 Github Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IamMoosa&theme=dark"></p> </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamMoosa&theme=dark"></p> </br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMoosa&theme=dark"></p>  </br>
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamMoosa&theme=monokai"></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IamMoosa&theme=merko"></p> </br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamMoosa&theme=merko"></p> </br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMoosa&theme=merko"></p>  </br>
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamMoosa&theme=merko"></p>
 
 
 #
