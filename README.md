@@ -24,8 +24,8 @@
 
 
 # 🔗 Links
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/syed-moosa-raza-rizvi/)  [![linkedin](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/IamMoosa)
+<a href="https://www.linkedin.com/in/syed-moosa-raza-rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-moosa-raza-rizvi" height="30" width="40" /></a>
+<a href="https://kaggle.com/syedmoosarazarizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedmoosarazarizvi" height="30" width="40" /></a>
 
 [![An image of @iammoosa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iammoosa)](https://holopin.io/@iammoosa)
 
