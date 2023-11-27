@@ -28,13 +28,3 @@
 <a href="https://kaggle.com/syedmoosarazarizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedmoosarazarizvi" height="30" width="40" /></a>
 
 [![An image of @iammoosa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iammoosa)](https://holopin.io/@iammoosa)
-
-# 📊 Github Stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IamMoosa&theme=merko"></p> </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamMoosa&theme=merko"></p> </br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMoosa&theme=merko"></p>  </br>
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamMoosa&theme=merko"></p>
-
-
-#
