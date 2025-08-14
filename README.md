@@ -119,7 +119,7 @@ class MoosaRaza:
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
 </a>
-<a href="https://huggingface.co/IamMoosa">
+<a href="https://huggingface.co/moosa1">
   <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black&labelColor=FFD21E&color=FFD21E" />
 </a>
 
