@@ -116,7 +116,7 @@ class MoosaRaza:
 <a href="https://kaggle.com/syedmoosarazarizvi">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF&color=20BEFF" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:moosaraza2002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
 </a>
 <a href="https://huggingface.co/moosa1">
