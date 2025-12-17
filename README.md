@@ -93,10 +93,6 @@ class MoosaRaza:
 
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=IamMoosa&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="AI Development Streak" />
-</div>
-
 ### <div align="center">🧠 AI Development Timeline</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamMoosa&theme=react-dark&bg_color=0d1117&hide_border=true&line=00D9FF&point=00D9FF&color=c9d1d9&area_color=00D9FF&area=true" width="100%" alt="AI Contribution Graph"/>
